@@ -1,0 +1,6 @@
+framework module Pods_Jupeed {
+  umbrella header "Pods-Jupeed-umbrella.h"
+
+  export *
+  module * { export * }
+}
